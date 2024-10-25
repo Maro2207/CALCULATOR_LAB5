@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dt042g.laboration_2.Lab2Test
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.131 s - in com.dt042g.laboration_2.Lab2Test
